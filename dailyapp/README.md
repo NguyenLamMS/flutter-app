@@ -4,6 +4,8 @@ A new Flutter application.
 # ScreenShot
 <img src="screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-12-28%20at%2009.16.00.png" alt="Logo">
 <img src="screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-12-28%20at%2009.16.05.png" alt="Logo">
+![Image](https://github.com/NguyenLamMS/flutter-app/blob/master/dailyapp/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-12-28%20at%2009.16.00.png)
+![Image](https://github.com/NguyenLamMS/flutter-app/blob/master/dailyapp/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-12-28%20at%2009.16.00.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
