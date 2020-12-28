@@ -1,7 +1,9 @@
 # foodapp
 
 A new Flutter application.
-
+# Screenshot
+<img src="screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-12-28%20at%2009.16.33.png" alt="Logo" wight="500" height="600">
+<img src="screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-12-28%20at%2009.17.13.png" alt="Logo" wight="500" height="600">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
